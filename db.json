@@ -1,0 +1,34 @@
+[
+    {
+      "id":1,
+      "name": "Moto G5",
+      "description":"Mobile",
+      "manufaturer":"Motorola Mobility",
+      "quantity": 2,
+      "price":1300
+    },
+    {
+      "id": 2,
+      "name": "Racold Geyser",
+      "description":"Water heaters",
+      "manufaturer":"Racold",
+      "quantity": 3,
+      "price":6000
+    },
+    {
+      "id": 3,
+      "name": "Dell Inspiron",
+      "description":"Computer",
+      "manufaturer":"Dell Inc.",
+      "quantity": 4,
+      "price":5000
+    },
+    {
+      "id": 4,
+      "name": "Apple Pro X",
+      "description":"Mobile",
+      "manufaturer":"Apple Inc",
+      "quantity": 5,
+      "price":100000
+    }
+  ]
